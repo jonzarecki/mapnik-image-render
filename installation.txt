@@ -1,0 +1,1 @@
+conda create -n mapnik-render -c conda-forge -c cpaulik p
