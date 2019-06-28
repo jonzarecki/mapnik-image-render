@@ -1,2 +1,2 @@
 # mapnik-image-render
-Example project to render images using python-mapnik
+Example project for rendring images with `python-mapnik`
